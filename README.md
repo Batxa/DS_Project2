@@ -8,7 +8,7 @@ Proyecto: Proyecto Individual 1, Data Analysis
 
 Estudiante: Juan GARATE
 
-Video explicativo: https://youtu.be/N4Yk12dFkbQ
+
 
 Contenidos & Fases del Proyecto
 
