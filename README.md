@@ -1,9 +1,8 @@
 # DS_Project2
 
-Escuela: Soy Henry
-Curso: Data Science Part Time, cohorte 7
-Proyecto: Proyecto Individual 1, Data Analysis
-Estudiante: Juan GARATE
+* Curso: Data Science Part Time, cohorte 7 - Escuela: Soy Henry
+* Proyecto: Proyecto Individual 1, Data Analysis
+* Estudiante: Juan GARATE
 
 El presente trabajo constituye el segundo de los proyectos individuales a presentar como parte de los requisitos para alcanzar la graduación del curso. El objetivo de este proyecto es la creación de un dashboard para el análisis de datos, en particular para datos de tráfico de la ciudad de Buenos Aires, Argentina durante los años 2016 a 2019.
 
