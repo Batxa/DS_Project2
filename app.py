@@ -17,7 +17,7 @@ from scipy import stats
 #car_data = pd.read_csv(
 #   "vehicles_us.csv")
    # "/Users/Juan/Documents/DataAnalytics/DA_S05_SoftwareDevelopment/DA_05_Project/vehicles_us.csv")
-car_data = pd.read_csv('/Users/Juan/Documents/GitHub/DS_Project2/vehicles_us.csv', sep=',') # leer los datos   
+car_data = pd.read_csv('vehicles_us.csv', sep=',') # leer los datos   
 print (car_data)
 
 st.header('Curso Data Analytics - Proyecto Sprint 05')
