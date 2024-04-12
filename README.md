@@ -40,3 +40,7 @@ Las fases y sus contenidos son los siguientes:
 * Víctimas: principales grupos de víctimas y causantes
 
 
+<<<<<<< HEAD
+=======
+edited from VSC
+>>>>>>> c394e8aa0f2fdcb722a3ebb7eb136d4c9efe5bed
