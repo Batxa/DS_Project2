@@ -23,3 +23,4 @@ El presente trabajo constituye el segundo de los proyectos individuales a presen
 Si bien el trabajo tiene como objetivo un desarrollo profesional, en este caso tiene un enfoque académico pues están comentados y explicados con detalle los pasos realizados, en función de que sea sencilla su corrección y pueda ser de utilidad a futuros estudiantes de data science.
 
 edited from VSC
+edited from GH
