@@ -2,25 +2,17 @@
 import streamlit as st
 import pandas as pd
 import plotly_express as px
-
 import numpy as np
-
 import seaborn as sns
-
 from matplotlib import pyplot as plt
 from math import factorial
 from scipy import stats
 
 
-# df = pd.read_csv("Users/Juan/Documents/DataAnalytics/DA_S05_SoftwareDevelopment/DA_05_Project/vehicles_us.csv")
-
-#car_data = pd.read_csv(
-#   "vehicles_us.csv")
-   # "/Users/Juan/Documents/DataAnalytics/DA_S05_SoftwareDevelopment/DA_05_Project/vehicles_us.csv")
 car_data = pd.read_csv('vehicles_us.csv', sep=',') # leer los datos   
 print (car_data)
 
-st.header('Curso Data Analytics - Proyecto Sprint 05')
+st.header('Curso Data Science - Proyecto Individual Nro. 2: DATA ANALYTICS')
 
 hist_button = st.button('Construir histograma')  # crear un botón
 
