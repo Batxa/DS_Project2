@@ -11,7 +11,7 @@ from scipy import stats
 
 car_data = pd.read_csv('vehicles_us.csv', sep=',') 
 #print (car_data)
-dfhl = pd.read_csv('dfhl.xlsx')
+dfhl = pd.read_excel('dfhl.xlsx')
 
 st.header('Curso Data Science - Proyecto Individual Nro. 2: DATA ANALYTICS')
 
