@@ -6,9 +6,9 @@
 
 El presente trabajo constituye el segundo de los proyectos individuales a presentar como parte de los requisitos para alcanzar la graduación del curso. El objetivo de este proyecto es la creación de un dashboard para el análisis de datos, en particular para datos de tráfico de la ciudad de Buenos Aires, Argentina durante los años 2016 a 2019.
 
-El trabajo tiene como objetivo un desarrollo profesional con un enfoque académico ya que el EDA contienen comentarios en los pasos realizados, en función de que sea sencilla su corrección y pueda ser de utilidad a futuros estudiantes de data science.
+El trabajo tiene como objetivo un desarrollo profesional con un enfoque académico ya que el EDA contiene comentarios en los pasos realizados, en función de que sea sencilla su corrección y pueda ser de utilidad a futuros estudiantes de data science.
 
-El alcance del trabajo consta de dos fases: 1) el análisis de datos, y 2) presentación de resultados. No se considera como parte de este trabajo las recomendaciones que puede dar un especialista en accidentes viales en función de mejorar los indicadores. El análisis de datos se ha realizado en Python v3.12, mientras que la presentación de resultados se ha realizado en Microsoft Power BI. Es importante mencionar que la fase 1 se enfoca en entender el panorama general de los datasets provistos, así como de crear métricas que permitan al lector un entendimiento situacional. Por otro lado, si bien la fase 2 también tiene métricas, esta se enfoca en la visualización de los KPIs o indicadores claves de procesos. 
+El alcance del trabajo consta de dos fases: 1) el análisis de datos, y 2) presentación de resultados. No se considera como parte de este trabajo las recomendaciones que puede dar un especialista en accidentes viales en función de mejorar los indicadores. El análisis de datos se ha realizado en Visaual Studio Code con Python v3.12, mientras que la presentación de resultados se ha realizado en Microsoft Power BI. Es importante mencionar que la fase 1 se enfoca en entender el panorama general de los datasets provistos, así como de crear métricas que permitan al lector un entendimiento situacional. Por otro lado, si bien la fase 2 también tiene métricas, esta se enfoca en la visualización de los KPIs o indicadores claves de procesos. 
 
 # Fases y contenidos:
 
