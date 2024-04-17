@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 
 # Correr la app en local: streamlit run /Users/Juan/Documents/GitHub/DS_Project2/PI2_Streamlit.py
 #--------------------------------------------------------
-dfhl = pd.read_excel('/Users/Juan/Documents/GitHub/DS_Project2/dfhl.xlsx')
+dfhl = pd.read_excel('DS_Project2/dfhl.xlsx')
 
 #--------------------------------------------------------
 st.title("Data Science. Proyecto Individual Nro. 2 - Análisis extra con gráficos de mayor complejidad")
