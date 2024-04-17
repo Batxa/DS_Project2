@@ -6,6 +6,7 @@ from matplotlib.colors import LinearSegmentedColormap
 import plotly.express as px
 import plotly.graph_objects as go
 
+# Correr la app en local: streamlit run /Users/Juan/Documents/GitHub/DS_Project2/PI2_Streamlit.py
 #--------------------------------------------------------
 dfhl = pd.read_excel('/Users/Juan/Documents/GitHub/DS_Project2/dfhl.xlsx')
 
