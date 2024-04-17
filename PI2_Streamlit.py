@@ -7,7 +7,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 #--------------------------------------------------------
-dfhl = pd.read_excel('/Users/Juan/Documents/GitHub/Test_Streamlit/dfhl.xlsx')
+dfhl = pd.read_excel('/Users/Juan/Documents/GitHub/DS_Project2/dfhl.xlsx')
 
 #--------------------------------------------------------
 st.title("Data Science. Proyecto Individual Nro. 2 - Análisis extra con gráficos de mayor complejidad")
